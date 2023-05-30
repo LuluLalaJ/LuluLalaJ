@@ -8,6 +8,9 @@ I'm Chen, an art history enthusiast turned tech enthusiast. With a passion for c
 
 **SORTING HAT** | [CODE](https://github.com/LuluLalaJ/sorting-hat-app) | A single-page app for new Hogwarts witches and wizards to get sorted into their houses
 
+## Skills
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,py)](https://skills.thijs.gg)
+
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/chenjiang15/) | [Medium](https://medium.com/@chjiang15) 
 
