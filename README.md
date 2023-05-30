@@ -13,6 +13,8 @@ I'm Chen, an art history enthusiast 🎨 turned tech enthusiast 💻. With a pas
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuluLalaJ&theme=dark)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuluLalaJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/chenjiang15/) | [Medium](https://medium.com/@chjiang15) 
