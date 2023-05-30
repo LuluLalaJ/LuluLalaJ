@@ -11,6 +11,9 @@ I'm Chen, an art history enthusiast 🎨 turned tech enthusiast 💻. With a pas
 ## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,py)](https://skills.thijs.gg)
 
+## Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuluLalaJ&theme=dark)](https://git.io/streak-stats)
+
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/chenjiang15/) | [Medium](https://medium.com/@chjiang15) 
 
