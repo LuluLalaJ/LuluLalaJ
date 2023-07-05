@@ -2,6 +2,10 @@
 I'm Chen, an art historian 🎨 turned tech enthusiast 💻. With a passion for creativity and a newfound love for software engineering, I'm on a mission to blend the worlds of art and technology. Whether I'm admiring brushstrokes or crafting elegant code, I find joy in the intersection of these two realms. When I'm not immersed in the digital world, you can find me doting on my 🐈 two fur babies 🐈, flowing through yoga poses, or practicing tea ceremony 🍵. With a vibrant spirit and a thirst for knowledge, I'm excited to create meaningful experiences that bridge the gap between art and technology.
 
 ## Projects
+**Tai-An Tea School** | [Front-End](https://github.com/LuluLalaJ/tai-an-client) | [Back-End](https://github.com/LuluLalaJ/tai-an-server) | A lesson management website provides tea teachers and students a streamlined and efficient platform for lesson registration and feedback
+
+**The Cake Shop** | [Front-End](https://github.com/LuluLalaJ/cake_shop_frontend) | [Back-End](https://github.com/LuluLalaJ/cake_shop_backend) | A cake shop website allowing users to purchase cakes and leave reviews
+
 **JOB TRACKING CLI** | [CODE](https://github.com/LuluLalaJ/job_tracking_cli) | An CLI app allows users to view and add job applications and keep track of application status
 
 **YOU ARE PURRFECT** | [CODE](https://github.com/LuluLalaJ/you-are-purrfect-react-app) | A React app for cat lovers to learn about cats and find their favorite fur babies
